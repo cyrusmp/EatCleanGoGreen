@@ -104,12 +104,17 @@ p {
 }
 
 .chartimg img {
-    margin-left: 325px;
+    margin-left: 370px;
     width: 50%;
 }
 
 .topic2 img {
     margin-top: 20px;
+    margin-left: 370px;
+}
+
+.systems img {
+    width: 50%;
     margin-left: 370px;
 }
 
