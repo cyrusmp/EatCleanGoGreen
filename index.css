@@ -75,7 +75,7 @@ button:hover {
 }
 
 
-h2 {
+h2, h3 {
     text-align: left;
     margin: 10px;
     margin-top: 20px;
@@ -84,7 +84,7 @@ h2 {
     font-size: xx-large;
 }
 
-p {
+p, li {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: large;
     line-height: 1.8;
