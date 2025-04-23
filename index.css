@@ -113,7 +113,7 @@ p, li {
 }
 
 .topic2 img {
-    margin-top: 50px;
+    margin-top: 45px;
     margin-bottom: 125px;
     margin-left: 370px;
 }
@@ -137,4 +137,12 @@ ul {
 
 main {
     margin-top: 50px;
+}
+
+.intro3 {
+    margin-top: 75px;
+}
+
+.prediction {
+    margin-top: 75px;
 }
