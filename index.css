@@ -127,8 +127,11 @@ p, li {
 footer {
     display: flex;
     justify-content: center;
+    font-size: larger;
+    align-items: center;
     margin-top: 50px;
-    margin-bottom: 10px;
+    background-color: #8BC34A;
+    height: 50px;
 }
 
 ul {
