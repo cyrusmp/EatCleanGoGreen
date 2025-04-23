@@ -36,6 +36,7 @@ header {
 
 .top {
     display:flex;
+    margin-bottom: -90px;
 }
 
 .logo img {
