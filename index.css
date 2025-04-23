@@ -100,7 +100,8 @@ p, li {
 .eatingPatterns {
     display: flex;
     justify-content: center;
-
+    margin-top: 50px;
+    margin-bottom: 50px;
 }
 
 .chartimg img {
@@ -111,13 +112,15 @@ p, li {
 }
 
 .topic2 img {
-    margin-top: 20px;
+    margin-top: 50px;
+    margin-bottom: 125px;
     margin-left: 370px;
 }
 
 .systems img {
     width: 50%;
     margin-left: 370px;
+    margin-bottom: 125px;
 }
 
 footer {
@@ -125,4 +128,8 @@ footer {
     justify-content: center;
     margin-top: 50px;
     margin-bottom: 10px;
+}
+
+ul {
+    margin-bottom: 125px;
 }
